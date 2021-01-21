@@ -3,7 +3,7 @@
 I will be adding zipped files per each individual Part (Part 1 - 11) of NodeJS Track for your downloading ease. Download the zipped file, unzip it, and follow instructions to get things running on your machine. I am developing on a WINDOWS machine, using basic cmd line interface, and Atom.io for my code editor.
 
 <ol>
-  <li><a href="https://www.sitepoint.com/premium/courses/getting-started-with-node-js-2979">Part 1: Getting Started with Node.js</a></li><strong>COMPLETED</strong>
+  <li><a href="https://www.sitepoint.com/premium/courses/getting-started-with-node-js-2979">Part 1: Getting Started with Node.js (Part 1 Hello API Code-Along ZIP above in this repo.)</a></li><strong>COMPLETED</strong>
   <li><a href="https://www.sitepoint.com/premium/courses/introduction-to-es6-2980">Part 2: Introduction to ES6</a></li><strong>COMPLETED</strong>
   <li><a href="https://www.sitepoint.com/premium/courses/creating-a-rest-api-with-node-js-2992">Part 3: Creating a REST API with Node.js</a></li><strong>IN-PROGRESS</strong>
   <li><a href="https://www.sitepoint.com/premium/courses/deploying-a-node-js-app-to-digitalocean-2982">Part 4: Deploying a Node.js App to DigitalOcean</a></li>
