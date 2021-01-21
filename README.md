@@ -1,5 +1,7 @@
 # NodeJS Track via SitePoint: My goal is to complete all tutorials, online books, & projects contained in SitePoint's <a href="https://www.sitepoint.com/premium/paths/learn-node-js">Node.js Track</a>!
 
+I will be adding zipped files per each individual Part (Part 1 - 11) of NodeJS Track for your downloading ease. Download the zipped file, unzip it, and follow instructions to get things running on your machine. I am developing on a WINDOWS machine, using basic cmd line interface, and Atom.io for my code editor.
+
 <ol>
   <li><a href="https://www.sitepoint.com/premium/courses/getting-started-with-node-js-2979">Part 1: Getting Started with Node.js</a></li><strong>COMPLETED</strong>
   <li><a href="https://www.sitepoint.com/premium/courses/introduction-to-es6-2980">Part 2: Introduction to ES6</a></li><strong>COMPLETED</strong>
